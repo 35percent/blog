@@ -3,7 +3,7 @@ templateKey: blog-post
 published: false
 title: 'DraftAylesbury: Southwark receive permission to challenge CPO decision'
 subtitle: Council angles for back-door deal with Secretary of State
-date: 21/01/17
+date: 21-01-17
 ---
 Southwark Council finally got permission to make its case against the Secretary of State, for his refusal of their CPO request against Aylesbury leaseholders. It was Southwark's second time of asking, after first being [refused](/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.
 

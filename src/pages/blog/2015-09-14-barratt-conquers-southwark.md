@@ -1,9 +1,8 @@
 ---
 templateKey: blog-post
 title: "Chambers Wharf tenure switch"
-date: '2015-09-14 18:01:50 +0100'
+date: 2015-09-14
 comments: true
-categories: null
 published: true
 ---
 ## Chambers Wharf

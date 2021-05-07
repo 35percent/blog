@@ -5,7 +5,7 @@ subtitle: >-
   Bermondsey's Biscuit Factory redevelopment falls well short of policy
   requirements
 published: true
-date: 'Tue Sep 25 2018 01:00:00 GMT+0100 (British Summer Time)'
+date: 2018-09-25
 ---
 # 1300 new homes, no social rented
 While most eyes have been on [developer Delancey's plans](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9569810) for the redevelopment of the Elephant and Castle shopping centre, on the other side of Southwark an equally large proposal to build over a thousand homes without any social rented housing has been stealthily making its way towards planning permission.

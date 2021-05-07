@@ -3,7 +3,7 @@ templateKey: blog-post
 published: true
 title: Southwark gives Delancey a helping hand
 subtitle: Delancey gets comforting letter after missing legal agreement deadline
-date: '2018-12-23'
+date: 2018-12-23
 ---
 As we anticipated in our [last blogblog-post](http://35percent.org/2018-12-16-mayor-approves-shopping-centre/) Delancey missed the deadline for completing the legal S106 agreement that seals [the planning approval](http://35percent.org/2018-07-09-delancey/) for the shopping centre's demolition and redevelopment.
 
