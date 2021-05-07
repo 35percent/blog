@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Elephant traders who face the end without new homes
 subtitle: "Only 40 traders have 'found new premises' as centre closure looms"
-featuredimage: https://35percent.org/img/lescreenshot.png
+featuredimage: ../../img/lescreenshot.png
 featuredpost: false
 date: 2020-09-22
 ---
