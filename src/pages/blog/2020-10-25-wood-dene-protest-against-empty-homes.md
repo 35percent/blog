@@ -3,7 +3,7 @@ templateKey: blog-post
 published: true
 title: 'Wood Dene Protest against empty homes '
 subtitle: Peckham demo to highlight the plight of the homeless
-date: 2020/10/27
+date: 2020-10-27
 ---
 
 

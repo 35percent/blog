@@ -1,9 +1,7 @@
 ---
 templateKey: blog-post
 title: "Town hall sell off - price on application"
-date: 2016-02-12 12:25:37 +0000
-comments: true
-categories: 
+date: 2016-02-12
 ---
 ![](http://www.london-se1.co.uk/news/imageuploads/1364655642_91.125.225.38.jpg)
 

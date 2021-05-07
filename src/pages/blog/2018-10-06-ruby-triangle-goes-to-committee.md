@@ -3,7 +3,7 @@ templateKey: blog-post
 published: true
 title: Ruby Triangle
 subtitle: First major Old Kent Road application goes to committee
-date: 'Mon Oct 08 2018 01:00:00 GMT+0100 (British Summer Time)'
+date: 2018-10-08
 ---
 The first of the very large planning applications lining up to take advantage of the proposed [Old Kent Rd Opportunity Area](http://35percent.org/2016-11-21-old-kent-road-aap-loopholes/) goes to Southwark's [planning committee on Monday 29 October](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6270&Ver=4).  It is for a mixed-use scheme that would include 1152 homes, with 40.5% affordable housing, two-thirds of which would be social rented.  A publicly accessible sports hall/gym and 'pocket park' are also promised. The scheme dubbed the 'Ruby Triangle' is proposed by a [joint venture](https://beta.companieshouse.gov.uk/company/10733947/charges) between [A2Dominion Housing association](http://www.a2dominion.co.uk) and recently-formed developer [Avanton Ltd](http://www.avanton.co.uk), which is [chaired by former defence secretary Sir Michael Fallon](https://www.thetimes.co.uk/article/michael-fallon-takes-on-property-job-with-avanton-nvgttjprt). 
 
