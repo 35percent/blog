@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2019-06-15
 title: Delays and Delancey
 subtitle: Delancey looks to escape blame for its own faults
 ---

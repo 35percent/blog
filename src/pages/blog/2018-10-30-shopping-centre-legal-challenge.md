@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-published: true
 title: "Elephant Shopping Centre - traders and campaigners step-up the fight"
 subtitle: "Planning approval set to face legal challenge, while traders object to insufficient temporary premises"
 date: 2018-10-30

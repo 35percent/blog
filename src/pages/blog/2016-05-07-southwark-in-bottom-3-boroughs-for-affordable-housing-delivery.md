@@ -2,9 +2,7 @@
 
 title: 'Southwark in bottom 3 boroughs for affordable housing delivery'
 templateKey: blog-post
-published: true
-categories: [Aylesbury regeneration, Estate regeneration]
-
+date: 2016-05-07
 ---
 Southwark is one of the worst three boroughs in London when it comes to delivery of social rented housing. Only 3% of the total homes delivered in 2014/15 were affordable and -5% of the total delivered was social rented (it is a minus figure because more have been [knocked down](http://35percent.org/the-southwark-clearances/) or [sold off](http://35percent.org/auctions/) than have been built)[^1].
 

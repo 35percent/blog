@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true 
+date: 2017-06-20
 title: "A Signal embarrassment"
 subtitle: "Southwark pays out instead of enforcing planning conditions"
 ---

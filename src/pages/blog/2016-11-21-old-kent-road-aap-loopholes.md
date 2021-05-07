@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Affordable housing loopholes in Old Kent Road plan"
 subtitle: "Loopholes in draft Old Kent Rd planning policy offer numerous 
 exploits for developers"
-published: true
+date: 2016-11-21
 ---
 
 ![](http://35percent.org/img/okrheader.png)

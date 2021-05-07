@@ -2,10 +2,7 @@
 templateKey: blog-post
 title: The Elephant goes offshore
 subtitle: Developer Delancey registers its Elephant & Castle land holdings offshore
-comments: true
-categories:
-  - Shopping centre
-published: true
+date: 2017-05-05
 ---
 ![](/img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg)
 *Delancey's Jamie Ritblat Celebrating topping out of [__Elephant One__](/tribeca-square) with Southwark's Mayor.*

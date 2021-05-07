@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-published: true
 title: Shopping Centre traders propose new stalls for the Elephant
 subtitle: Traders appeal to Mayor Sadiq Khan for his support
 date: 2020-09-14

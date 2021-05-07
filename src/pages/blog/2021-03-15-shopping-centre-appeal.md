@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2021-03-15
 title: Appeal against Elephant Shopping Centre development tomorrow
 subtitle: Challenge against High Court on 16 and 17 March.
 ---

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2019-06-16
 title: Verney Rd - yet another Old Kent Rd development
 subtitle: Third large application in a month goes to committee
 ---

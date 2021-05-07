@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: Aylesbury estate regeneration to have new council homes
-published: true
-subtitle: Notting Hill Genesis to receive £210m bailout from Southwark
+subtitle: "Notting Hill Genesis to receive £210m bailout from Southwark"
 date: 2020-07-12
 ---
 

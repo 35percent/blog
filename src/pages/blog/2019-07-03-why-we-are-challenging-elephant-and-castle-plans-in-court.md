@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
-author: Jerry Flynn
-published: true
+date: 2019-07-03
 ---
 
 ## Southwark Council - demolishing council homes, generating better people 

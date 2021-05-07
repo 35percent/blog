@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2020-02-17
 title: The Biscuit Factory is back
 subtitle: Sadiq gives the Duke of Westminster a second chance
 ---

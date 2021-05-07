@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2017-05-08
 title: "Aylesbury CPO- what's really happened"
 subtitle: "Beyond the spin of Southwark Council's press office"
 ---

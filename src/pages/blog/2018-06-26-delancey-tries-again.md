@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2018-06-26
 title: Shopping Centre redevelopment - Delancey tries again
 ---
 ## Application returns to the planning committee

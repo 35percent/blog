@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2019-04-29
 title: Delancey deals double blow to shopping centre traders
 ---
 

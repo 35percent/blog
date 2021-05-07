@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-published: true
 title: Ruby Triangle
 subtitle: First major Old Kent Road application goes to committee
 date: 2018-10-08

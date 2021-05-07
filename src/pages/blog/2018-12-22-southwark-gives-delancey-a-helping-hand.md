@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-published: true
 title: Southwark gives Delancey a helping hand
 subtitle: Delancey gets comforting letter after missing legal agreement deadline
 date: 2018-12-23

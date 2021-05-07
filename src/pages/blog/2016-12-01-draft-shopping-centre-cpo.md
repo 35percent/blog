@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Going nowhere in a hurry"
 subtitle: "Shopping Centre's major leaseholder says he's staying put"
-published: false
+date: 2016-12-01
 ---
 ![](http://www.southwarknews.co.uk/wp-content/uploads/2016/10/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg)
 *Going nowhere - Patrick Duffey of the bingo hall and bowling alley*

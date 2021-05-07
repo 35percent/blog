@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true 
+date: 2017-01-30
 title: 'Aylesbury: Southwark finally granted leave to appeal CPO decision.'
 subtitle: Council succeeds at second attempt
 ---

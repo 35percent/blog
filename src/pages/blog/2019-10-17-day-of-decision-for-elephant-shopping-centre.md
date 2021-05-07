@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-published: true
-title: 'High Court hearing looms for Elephant shopping centre '
+date: 2019-10-17
+title: 'High Court hearing looms for Elephant shopping centre'
 subtitle: Legal challenge goes to court next week
 ---
 ![](http://35percent.org/img/screenshot_leaflet.png)

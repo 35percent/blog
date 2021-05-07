@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "At fault and unjust - Southwark slammed by Ombudsman"
-published: true
+date: 2016-06-18
 ---
 The Local Government Ombudsman has delivered a [damning verdict](http://35percent.org/img/LGO_Glasspool14-019-995.pdf) on Southwark's eviction of the last leaseholder from the Heygate estate. She has ruled that Southwark was at 'fault', causing the leaseholder an 'injustice' and has directed that Southwark give a written apology and make compensation payments amounting to over £11,000. She further directed that Southwark produce proper policies and procedures for dealing with the compulsory purchase of leaseholder properties. Southwark Council has agreed with the Ombudsman's proposals for remedying the injustice.
 

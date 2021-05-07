@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
-published: true
 title: The shopping centre traders expelled by regeneration
-subtitle: University of the Arts ignores traders' plight
+subtitle: "University of the Arts ignores traders' plight"
 date: 2020-08-24
 ---
 

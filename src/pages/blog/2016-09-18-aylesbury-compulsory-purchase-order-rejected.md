@@ -1,11 +1,8 @@
 ---
-
 title: "Victory for Aylesbury Leaseholders"
 subtitle: "Government blocks compulsory purchase order"
 templateKey: blog-post
-published: true
-categories: [Aylesbury regeneration, Estate regeneration]
-
+date: 2016-09-18
 ---
 ![](http://35percent.org/img/alag.png)
 

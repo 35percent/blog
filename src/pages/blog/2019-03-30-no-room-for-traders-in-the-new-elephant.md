@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2019-03-30
 title: 'No room for traders in the new Elephant'
 subtitle: 'Shopping centre traders left out in the cold'
 ---

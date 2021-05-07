@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2017-03-05
 title: "Aylesbury CPO appeal - a grounded defence"
 subtitle: "Secretary of State delivers on promise to 'robustly defend' his decision against Southwark's appeal"
 ---

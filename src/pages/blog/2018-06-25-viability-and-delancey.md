@@ -1,6 +1,5 @@
 ---
 templateKey: blog-post
-published: true
 title: Delancey's subsidised profit
 date: 2018-07-02
 ---

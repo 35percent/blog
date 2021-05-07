@@ -4,7 +4,6 @@ title: Lendlease banks £113m profit from 'unviable' joint venture with Southwar
 subtitle: >-
   Council's share of the bumper profit from its regeneration partner is a
   pitiful £12m
-published: true
 date: 2017-04-12
 ---
 Figures published in Lendlease's 2016 half year [financial statement](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-lendlease-delivers-double-digit-earnings-growth.ashx) and 2015 [portfolio report](http://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2016/17022016-2016-half-year-results-portfolio-report.ashx)

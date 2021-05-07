@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Delancey's dirty tricks"
 subtitle: "Market Square earmarked for displaced shopping centre traders disappears"
-published: true
+date: 2017-03-12
 ---
 Delancey's [application](http://35percent.org/shopping-centre) for the redevelopment of the Elephant & Castle shopping centre includes images of the Market Square, which is part of its neighbouring development __Elephant One__, also owned and built by Delancey.
 

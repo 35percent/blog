@@ -2,8 +2,6 @@
 templateKey: blog-post
 title: "Chambers Wharf tenure switch"
 date: 2015-09-14
-comments: true
-published: true
 ---
 ## Chambers Wharf
 It is starting to look like [tenure switches](/redefining-social-rent) have become routine practice for new developments in Southwark. The arrangement suits both developers and 

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-published: true
+date: 2019-05-27
 title: Southernwood Retail Park
 ---
 

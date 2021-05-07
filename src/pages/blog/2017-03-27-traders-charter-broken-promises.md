@@ -2,7 +2,6 @@
 templateKey: blog-post
 title: "Traders Betrayed"
 subtitle: "Southwark's forgotten promises to E&C shopping centre traders"
-published: true
 date: 2017-04-02
 ---
 As residents of the Heygate estate discovered, early [regeneration promises](http://heygatewashome.org/displacement.html) made to those [pushed aside](http://35percent.org/2013-06-08-the-heygate-diaspora/) are [seldom kept](http://www.reuters.com/article/us-britain-london-housing-idUSKCN0SD0OV20151019), but the scale of the unfulfilled committments made by Southwark to the independent small traders at the Elephant & Castle shopping centre puts the Heygate into the shade.
