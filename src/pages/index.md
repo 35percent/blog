@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 35% Campaign
-image: /img/scentreprotest2.jpg
+image: /img/scentreprotest3.jpg
 heading: 35% Campaign
 subheading: for regeneration that benefits local people
 mainpitch:
