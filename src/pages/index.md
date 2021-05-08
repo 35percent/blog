@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 35% Campaign
+image: /img/lovetheelephantbanner.jpg
+heading: 35% Campaign
+subheading: for regeneration that benefits local people
 mainpitch:
   title: Why Kaldi
   description: >
