@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
 title: 35% Campaign
-image: /img/lovetheelephantbanner.jpg
+image: /img/lovetheelephantbannercropped.jpg
 heading: 35% Campaign
 subheading: for regeneration that benefits local people
 mainpitch:
-  title: Why Kaldi
+  title: Why 35%
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    35% is the minimum proportion of affordable housing required by Southwark's planning policy, 70% of which must be social rent. But developers continue to find loopholes or switch tenures to... 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
